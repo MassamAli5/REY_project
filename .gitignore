@@ -1,0 +1,17 @@
+
+# Original and processed analytical data
+data/raw/
+data/processed/
+
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Temporary files
+.ipynb_checkpoints/
+.env
+
+# Large model files
+results/models/
