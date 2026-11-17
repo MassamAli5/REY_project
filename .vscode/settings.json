@@ -1,0 +1,8 @@
+{
+    "markdown.styles": [
+        "reports/report.css"
+    ],
+    "markdown-pdf.styles": [
+        "reports/report.css"
+    ]
+}

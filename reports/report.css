@@ -1,0 +1,105 @@
+
+/* REY Project — Research Report Formatting */
+
+html, body, .markdown-body {
+    font-family: "Times New Roman", Times, serif !important;
+    font-size: 12pt !important;
+    color: #000000 !important;
+    background: #ffffff !important;
+}
+
+/* Justified main text */
+p, li {
+    font-family: "Times New Roman", Times, serif !important;
+    font-size: 12pt;
+    color: black;
+    text-align: justify !important;
+    line-height: 1.25;
+}
+
+/* Main headings */
+h1 {
+    font-family: "Times New Roman", Times, serif !important;
+    font-size: 14pt !important;
+    font-weight: bold !important;
+    color: black !important;
+    text-align: left;
+}
+
+/* Section headings */
+h2, h3 {
+    font-family: "Times New Roman", Times, serif !important;
+    font-size: 12pt !important;
+    font-weight: bold !important;
+    color: black !important;
+    text-align: left;
+}
+
+/* Center the entire table */
+table {
+    width: auto !important;
+    max-width: 100%;
+    margin: 12pt auto !important;
+    border-collapse: collapse;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 12pt;
+    color: black;
+}
+
+/* Center table contents */
+th, td {
+    border: 1px solid black;
+    padding: 5pt 9pt;
+    text-align: center !important;
+    vertical-align: middle;
+    font-size: 12pt;
+}
+
+th {
+    font-weight: bold;
+}
+
+/* Center figures */
+img {
+    display: block;
+    max-width: 90%;
+    height: auto;
+    margin: 12pt auto !important;
+}
+
+p:has(> img) {
+    text-align: center !important;
+}
+
+/* Figure captions */
+p:has(> img) + p,
+p:has(> img) + p em {
+    font-family: "Times New Roman", Times, serif !important;
+    font-size: 11pt !important;
+    font-style: normal !important;
+    font-weight: normal !important;
+    color: black !important;
+    text-align: justify !important;
+}
+
+/* Center table captions */
+p:has(+ table) {
+    text-align: center !important;
+}
+
+/* Restore visible table borders */
+
+table {
+    border: 1px solid black !important;
+    border-collapse: collapse !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+table th,
+table td {
+    border: 1px solid black !important;
+    padding: 5pt 9pt !important;
+    text-align: center !important;
+    vertical-align: middle !important;
+}
