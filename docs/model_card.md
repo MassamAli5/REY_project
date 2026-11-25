@@ -5,7 +5,7 @@
 
 **Project:** Grain-Type Variation and Prediction of REY Enrichment in Early Cambrian Phosphorites
 
-**Team:** T06 — Massam Ali and Hussain Rabani
+**Massam Ali**
 
 **Model type:** Ridge regression
 
