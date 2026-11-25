@@ -2,9 +2,7 @@
 
 Research Proposal
 
-**Team T06:** Massam Ali and Hussain Rabani
-
-**Date:** November 17, 2026
+**Massam Ali**
 
 ## 1. Research Problem and Motivation
 
