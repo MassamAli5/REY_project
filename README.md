@@ -1,9 +1,9 @@
 
 # REY Enrichment in Early Cambrian Phosphorites
 
-**Team Project — T06**
+**Projec**
 
-**Team members:** Massam Ali and Hussain Rabani
+** Massam Ali
 
 ## Research Objective
 
