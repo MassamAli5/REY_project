@@ -1,7 +1,7 @@
 
 # REY Enrichment in Early Cambrian Phosphorites
 
-**Projec**
+**Project**
 
 ** Massam Ali
 
