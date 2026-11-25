@@ -57,7 +57,7 @@ The project uses published geological measurements and does not involve human pa
 
 The main limitations are the small number of independent rocks, potentially correlated measurements, uncertain parent-rock identifiers, and restriction to one locality. Statistical associations or model performance cannot independently establish the processes responsible for REY enrichment.
 
-Proposed responsibilities, subject to team confirmation, are: Massam Ali—geological interpretation, dataset review, and scientific writing; Hussain Rabani—computational implementation and model evaluation. Both members will review the results, verify their contributions, and document any AI assistance.
+Proposed responsibilities, subject to team confirmation, are: Massam Ali—geological interpretation, dataset review, and scientific writing; Hussain Rabani—computational implementation and model evaluation. Both will review the results, verify their contributions, and document any AI assistance.
 
 ## References
 
