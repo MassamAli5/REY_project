@@ -1,10 +1,6 @@
 
 # Progress Review: Grain-Type Variation and Prediction of REY Enrichment in Early Cambrian Phosphorites
 
-**Team T06**
-
-**Members:** Massam Ali and Hussain Rabani
-
 **Dataset:** Kakul Garlaniyan phosphorites, northeastern Pakistan
 
 **Reporting date:** November 17, 2026
