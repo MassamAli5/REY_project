@@ -1,9 +1,7 @@
 
 # Rock-Scale and Grain-Type Variation in REY Enrichment in Early Cambrian Phosphorites
 
-**UCAS Data Science — Team T06**
-
-**Team members:** Massam Ali and Hussain Rabani
+**Massam Ali**
 
 **Study area:** Kakul Garlaniyan, Hazara Basin, northeastern Pakistan
 
