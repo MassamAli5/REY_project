@@ -3,17 +3,13 @@
 
 **Project:** Grain-Type Variation and Prediction of REY Enrichment in Early Cambrian Phosphorites
 
-**Team:** T06 — Massam Ali and Hussain Rabani
-
-**Date:** November 17, 2026
-
 ## 1. Purpose of AI Assistance
 
 Our team has an academic background in geology and geochemistry, with limited prior experience in Python programming.
 
 We used ChatGPT primarily to suggest and draft Python code and troubleshoot programming errors. This assistance helped us implement our computational analyses in VS Code.
 
-The scientific investigation was conducted by our team, which retained responsibility for the research questions, geological reasoning, execution of the analyses, verification of results, and conclusions.
+Our team conducted the scientific investigation and retained responsibility for the research questions, geological reasoning, execution of the analyses, verification of results, and conclusions.
 
 ## 2. AI-Assisted Programming
 
